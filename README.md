@@ -33,7 +33,6 @@ This walkthrough outlines the post-installation configuration of the help desk t
 </p>
 <p>
 1. Firstly, we’re going to use this link (http://localhost/osTicket/scp/login.php ) to navigate to osTicket and login using the email and password created when osTicket was first installed. 
-
 </p>
 <br />
 
@@ -46,9 +45,40 @@ This walkthrough outlines the post-installation configuration of the help desk t
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="957" alt="3" src="https://github.com/user-attachments/assets/8b52cf3e-54ff-4dc1-b8e0-165cd7358e81">
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+3. Click on the Agents Tab near the top of the screen.
 </p>
 <br />
+
+<p>
+<img width="960" alt="4" src="https://github.com/user-attachments/assets/f06eced7-ea74-4e28-8bdc-93322be91805">
+</p>
+<p>
+4. Click on the Roles tab. We’re now going to begin configuring different Roles which are permissions granted to Agents per Department that they have access to. 
+</p>
+<br />
+
+<p>
+<img width="957" alt="5" src="https://github.com/user-attachments/assets/8cf225a5-961c-415a-8099-ad780a960b1f">
+</p>
+<p>
+5. Click Add New Role.
+</p>
+<br />
+
+<p>
+<img width="955" alt="6" src="https://github.com/user-attachments/assets/8fb0e710-25b7-4dcb-929f-b3038e3c751c">
+</p>
+<p>
+6. First, we’re going to create a role named “Supreme Admin” and this role will be given unlimited permissions. In order to do this, type in the name in the name box and then navigate to the permissions tab.
+</p>
+<br />
+
+<p>
+
+
+
+
+
