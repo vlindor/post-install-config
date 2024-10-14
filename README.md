@@ -3,13 +3,14 @@
 </p>
 
 <h1>osTicket - Post-Install Configuration</h1>
-This walkthrough outlines the post-installation configuration of the help desk ticketing system osTicket.<br />
+This walkthrough outlines the post-installation configuration of the help desk ticketing system osTicket. This exercise is done to explore the osTicket portal before creating and solving mock tickets. <br />
 
 <h2>Environments and Technologies Used</h2>
 
 - Microsoft Azure (Virtual Machines/Compute)
 - Remote Desktop
 - Internet Information Services (IIS)
+- osTicket Portal
 
 <h2>Operating Systems Used </h2>
 
@@ -17,11 +18,13 @@ This walkthrough outlines the post-installation configuration of the help desk t
 
 <h2>Post-Install Configuration Objectives</h2>
 
-- Configure Roles, Departments, Teams, Agents, Users, and SLAs
-- Item 2
-- Item 3
-- Item 4
-- Item 5
+- Configuration of Roles in order to group those with similiar permissions together.
+- Configuration of Departments
+- Configuration of Teams
+- Configuration of Agents
+- Configuration of Users
+- Configuration of SLAs
+- Configuration of Help Topics
 
 - <h2>Configuration Steps</h2>
 
