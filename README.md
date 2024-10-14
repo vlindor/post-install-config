@@ -90,12 +90,7 @@ This walkthrough outlines the post-installation configuration of the help desk t
 <img width="958" alt="10" src="https://github.com/user-attachments/assets/bfa9bd53-161d-4d8c-ad6e-5bf433161170">
 </p>
 <p>
-8. Once you see the green banner at the time, this is an indication that Supreme Admin has succesfully been added as a role.
-</p>
-<br />
-
-<p>
-9. Next, we will begin configuring Departments. This is done so that specific tickets are only visible to relevant Departments.
+8. Once you see the green banner at the top, this is an indication that Supreme Admin has succesfully been added as a role.
 </p>
 <br />
 
@@ -103,7 +98,7 @@ This walkthrough outlines the post-installation configuration of the help desk t
 <img width="962" alt="11" src="https://github.com/user-attachments/assets/c406d9f3-5afb-4173-9c6e-cfdef33e6b97">
 </p>
 <p>
-10. While still in the Agents tab, click on the Departments tab.
+9. Next, we will begin configuring Departments. This is done so that specific tickets are only visible to relevant Departments.
 </p>
 <br />
 
@@ -111,19 +106,26 @@ This walkthrough outlines the post-installation configuration of the help desk t
 <img width="962" alt="13" src="https://github.com/user-attachments/assets/8f6a8f6b-c406-422c-9150-008d1d2a68c8">
 </p>
 <p>
+10. While still in the Agents tab, click on the Departments tab.
+</p>
+<br />
+
+<p>
+<img width="962" alt="13" src="https://github.com/user-attachments/assets/5b4caf32-7287-40f1-8693-a38e5f841ebd">
+</p>
+<p>
 11. Click on "Add new Department".
 </p>
 <br />
 
 <p>
-<img width="949" alt="12" src="https://github.com/user-attachments/assets/7f167368-b5c9-4671-8361-e1eba3b771f6">
+<img width="949" alt="12" src="https://github.com/user-attachments/assets/ffcbb363-8469-4bcc-b6bc-9607c5da83d5">
 </p>
 <br />
 
 <p>
 12. When configuring a new Department, it will display the option to select SLAs, a department manager, a set schedule, and the ticket assignment. For demonstration purposes we will only configure SLAs but there are various other options that can be selected to make each Department easier to manage. 
 </p>
-
 <br  />
 
 <p>
