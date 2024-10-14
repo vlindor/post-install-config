@@ -77,6 +77,15 @@ This walkthrough outlines the post-installation configuration of the help desk t
 <br />
 
 <p>
+<img width="952" alt="7" src="https://github.com/user-attachments/assets/5326af72-810e-4290-a0ea-5825031495ec">
+<img width="948" alt="8" src="https://github.com/user-attachments/assets/a837a535-f7a7-4839-95ed-b46eacfa0740">
+<img width="952" alt="9" src="https://github.com/user-attachments/assets/831db6eb-9321-42c5-a94d-7a705f3f31d6">
+</p>
+<p>
+Make sure to put a check next to every line under Tickets, Tasks, and Knowledgebase; this way there are no restrictions to this role.
+
+
+
 
 
 
