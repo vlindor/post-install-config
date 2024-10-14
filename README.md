@@ -111,19 +111,41 @@ This walkthrough outlines the post-installation configuration of the help desk t
 <br />
 
 <p>
-<img width="962" alt="13" src="https://github.com/user-attachments/assets/5b4caf32-7287-40f1-8693-a38e5f841ebd">
-</p>
-<p>
-11. When configuring a new Department, it will display the option to select SLAs, a department manager, a set schedule, and the ticket assignment. For demonstration purposes we will only configure SLAs but there are various other options that can be selected to make each Department easier to manage. 
-</p>
-<br />
-
-<p>
 <img width="949" alt="12" src="https://github.com/user-attachments/assets/ffcbb363-8469-4bcc-b6bc-9607c5da83d5">
 </p>
+<p>
+11. We are going to name this Department "SysAdmins" and assign users to it later. When configuring a new Department, it will also display the option to select SLAs, a department manager, a set schedule, and the ticket assignment. For demonstration purposes we will only configure SLAs but there are various other options that can be selected to make each Department easier to manage. 
+</p>
 <br />
 
 <p>
+<img width="968" alt="14" src="https://github.com/user-attachments/assets/7a925868-48c3-4256-9951-fa4f2dd8b7a3">
+</p>
+<br />
+
+<p>
+12. Next, we will configure Teams which (in this instance) will contain various users from different Departments. For example, if this configuration was being done for an Online Banking Team, we would be sure to include users from various roles such as a system administrator or a helpdesk user. To do this, click on the Teams tab.
+</p>
+<br />
+
+<p>
+<img width="956" alt="15" src="https://github.com/user-attachments/assets/b8321579-28fe-425e-960e-afa746e7f528">
+</p>
+<br />
+
+<p>
+13. Click on "Add New Team".
+</p>
+<br />
+
+<p>
+<img width="962" alt="16" src="https://github.com/user-attachments/assets/eea6e9c9-0a5d-4d23-9d6f-06e71ed2ffeb">
+</p>
+<br />
+
+<p>
+14. To remain consistent with the previous example, we can call this team "Online Banking" and will assign users later. Click on Create Team at the bottom when done.
+
 
 
 
