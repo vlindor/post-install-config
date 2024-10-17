@@ -145,8 +145,139 @@ This walkthrough outlines the post-installation configuration of the help desk t
 
 <p>
 14. To remain consistent with the previous example, we can call this team "Online Banking" and will assign users later. Click on Create Team at the bottom when done.
+</p>
 
+<br />
 
+<p>
+<img width="964" alt="17" src="https://github.com/user-attachments/assets/22664c23-59ef-46a5-878b-ae6fc7f06e22">
+</p>
+<br />
+
+<p>
+15. Now, we're going to create a setting that will allow anyone (ex: endusers) to create tickets without being in the system. To do this, click on the Settings tab and then navigate to Users.
+</p>
+
+<br />
+
+<p>
+<img width="963" alt="18" src="https://github.com/user-attachments/assets/512b5ef1-905a-404f-b44f-0cf619e0a452">
+</p>
+<br />
+
+<p>
+16. It's important to make sure that "Registration Required" remains unchecked so that users do not have to login to an account just to create a ticket. Once the box has been unchecked, you can click on "Save Changes" at the bottom of the window.
+</p>
+
+<br />
+
+<p>
+<img width="959" alt="19" src="https://github.com/user-attachments/assets/fa36c20d-7722-407c-a2b3-20f03c4d33f2">
+</p>
+<br />
+
+<p>
+17. Now we will configure 2 mock Agents (employees): Jane who is a member of the SysAdmins Department and John who is part of the Support Department. To do this, click on the Agents tabe at the top and select "Add New Agent".
+</p>
+
+<br />
+
+<p>
+<img width="956" alt="20" src="https://github.com/user-attachments/assets/9b8a697f-0c03-426d-b8a7-50504f752e8d">
+</p>
+<br />
+
+<p>
+18. We will fill in the first name, last name, email address, and username for this Agent. Then click on the "access" tab to assign them to a department.
+</p>
+
+<br />
+
+<p>
+<img width="957" alt="21" src="https://github.com/user-attachments/assets/8caa5c5e-6420-4e80-b04c-8c169276564f">
+</p>
+<br />
+
+<p>
+19. For the sake of this example, Jane will be assigned to the SysAdmin department and be given the role of Supreme Admin. To place her on a specific team, we will click on the "Teams" tab.
+</p>
+
+<br />
+
+<p>
+<img width="958" alt="22" src="https://github.com/user-attachments/assets/6130e679-9b6e-40bc-994f-9f5350f06ddb">
+</p>
+<br />
+
+<p>
+20. The team we will be placing Agent Jane on is the Online Banking team. After this user has been configured, click on the Create button.
+</p>
+
+<br />
+
+<p>
+<img width="955" alt="23" src="https://github.com/user-attachments/assets/0c5fc0ba-f819-4503-8827-a56d82d68b10">
+<img width="957" alt="24" src="https://github.com/user-attachments/assets/75e1a75e-2ac7-4aa8-b72d-b74ab184cea7">
+</p>
+<br />
+
+<p>
+21. Now, we will configre the next Agent John Doe the same way. Select "Add New Agent" and we will fill out the same information we did for Jane Doe. The difference is that John will be assigned to the Support Department and will be given the "View only" role for this example. We will not be selecting a Team for John. Click the Create button. 
+</p>
+
+<br />
+
+<p>
+<img width="962" alt="25" src="https://github.com/user-attachments/assets/79083f6d-b7c4-4a5e-a953-fa0031fbbd5b">
+</p>
+<br />
+
+<p>
+22. Now, we have the ability to set individual passwords for our Agent accounts. To do this, navigate back to the Agent tab and click on Jane Doe first. 
+</p>
+
+<br />
+
+<p>
+<img width="955" alt="26" src="https://github.com/user-attachments/assets/b400829e-797c-4799-ab81-7608b96e8871">
+</p>
+<br />
+
+<p>
+23. Click on the "Set Password" button next to the username given to the Agent.
+</p>
+
+<br />
+
+<p>
+<img width="646" alt="27" src="https://github.com/user-attachments/assets/14381f9d-4110-4abd-83c0-9cfe8871e5b3">
+</p>
+<br />
+
+<p>
+24. Make sure to uncheck the button next to "Send the agent a password reset email" and "Require password change at the next login". The passwords we will give to both agents for this example is "Password 1". Once, you're done click on the Update button on the lower right of the screen and do the same thing for Agent John Doe. 
+</p>
+
+<br />
+
+<p>
+<img width="957" alt="28" src="https://github.com/user-attachments/assets/2ae76ee2-8f52-4057-9e10-75d8b086e93a">
+</p>
+<br />
+
+<p>
+25. Now, we will configure 2 users (customers) for this example: Karen and Ken. To do this, we're first going to switch from the Admin Panel too the Agent Panel by clicking the Agent Panel button at the top right of the browser window. 
+</p>
+
+<br />
+
+<p>
+<img width="952" alt="29" src="https://github.com/user-attachments/assets/822ae5f1-32d8-4d58-9a96-b08264c50c7f">
+</p>
+<br />
+
+<p>
+26. Now we will click on the Users tab and select "Add New User".
 
 
 
