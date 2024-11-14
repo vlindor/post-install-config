@@ -278,7 +278,91 @@ This walkthrough outlines the post-installation configuration of the help desk t
 
 <p>
 26. Now we will click on the Users tab and select "Add New User".
+</p>
+<br  />
 
+<p>
+<img width="643" alt="30" src="https://github.com/user-attachments/assets/877804fb-649a-4dd8-9b3f-07938f4a4cb1">
+<img width="963" alt="31" src="https://github.com/user-attachments/assets/e30c4590-3daa-42f2-9ac3-c907faabb78a">
+</p>
+<br  />
+
+<p>
+27. Fill in the information needed for the Email, First name, and Last name of the customer. In this case, a mock email is used for customer Karen. We will do the same steps for customer Ken. To check if the 2 users have been successfully added, you can navigate to the User Directory and see the updated list there. 
+</p>
+<br  />
+
+<p>
+<img width="963" alt="32" src="https://github.com/user-attachments/assets/59245fb2-88c9-47df-b519-b32757b81c54">
+</p>
+<br  />
+
+<p>
+28. An SLA (Service Level Agreements) is a document that outlines a commitment between a service provider and a client. In this example, the SLAs we will configure will be focused on the amount of time given for a ticket to be completed. The first thing we will do is navigate to the Admin Panel by clicking in the upper right corner of the screen.
+</p>
+<br  />
+
+<p>
+<img width="961" alt="33" src="https://github.com/user-attachments/assets/90e6db16-f04d-4005-816f-3b145d1df711">
+</p>
+<br  />
+
+<p>
+29. Click on the "Manage" Tab. Then click on the "SLAs" tab and click "Add New SLA Plan" so we can create 3 sample SLAs.
+</p>
+<br  />
+
+<p>
+<img width="968" alt="34" src="https://github.com/user-attachments/assets/33504ab5-32f8-480c-aa65-f033a6f4acd4">
+</p>
+<br  />
+<p>
+30. The first SLA we will configure is "Sev-A" which will be used to mark tickets of the highest priority. We will configure these tickets so that if they are not solved/responded to within 1 hour it will automatically be marked as Overdue. The Schedule we will select is 24/7. Click the "Add Plan" button on the bottom to add it. 
+</p>
+<br  />
+
+<p>
+<img width="966" alt="35" src="https://github.com/user-attachments/assets/8eb5366d-5871-4e63-bb61-542ff7287a3b">
+</p>
+<br  />
+<p>
+31. The next SLA will be "Sev-B" for tickets with second highest priority. The grace period will be 4 hours for it to be solved/responded to before it will be marked Overdue. The Schedule will still be 24/7. Click the "Add Plan" buttong on the bottom when done.
+</p>
+<br  />
+
+<p>
+<img width="959" alt="36" src="https://github.com/user-attachments/assets/0841441a-e531-4cae-b6b9-2fd6e70544fb">
+</p>
+<br  />
+<p>
+32. The final SLA will be titled "Sev-C" for tickets of lowest priority. The grace period for these will be 8 hours before it is automatically marked Overdue. The schedule this time will be business hours only (24/5). This means that if the ticket is submitted anytime over the weekend then the 8 hours will not apply. Click "Add Plan" when done. 
+</p>
+<br  />
+
+<p>
+<img width="960" alt="37" src="https://github.com/user-attachments/assets/dfb3b0f3-7d39-4a38-b0d7-d324e56b2989">
+</p>
+<br  />
+<p>
+33. The final setting to be configured are 'Help Topics". This setting will help categorize the tickets created by users/customers on the platform.
+</p>
+<br  />
+
+<p>
+<img width="960" alt="38" src="https://github.com/user-attachments/assets/106fb473-b3c4-4df8-b856-787930a239ae">
+</p>
+<br  />
+<p>
+34. We will be creating 5 Halp Topics: Business Critical Outage, Equipment Reset, Password Reset, Personal Computer Issues, and Other (for General Topics). For the first 4, we will place them under the Parent Topic "Report a Problem". Once you see all the Help Topics listed under the main tab, we are done creating them. 
+</p>
+<br  />
+
+<p>
+<img width="964" alt="39" src="https://github.com/user-attachments/assets/501966ad-df33-47b5-8f75-ec1a71ffefc3">
+</p>
+<br  />
+<p>
+35. 
 
 
 
